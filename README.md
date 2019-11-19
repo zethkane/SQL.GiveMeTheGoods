@@ -3,12 +3,12 @@
 ## Like
 
 ### Wildcards (Regex)
-Select all records from the **Students** table where the second letter of the City is an "a".
+Select all records from the **Students** table where the second letter of the **City** is an "a".
 
 *(Add your query to the file exercise1.sql)*
 
 
-Select all records from the **Students** table where the first letter of the City is an "a" or a "c" or an "s".
+Select all records from the **Students** table where the first letter of the **City** is an "a" or a "c" or an "s".
 
 
 *(Add your query to the file exercise2.sql)*
